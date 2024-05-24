@@ -145,7 +145,7 @@ li{list-style-type: none!important;}
 	text-align: center;
 	-webkit-transform: scale(0);
 	transform: scale(0);}
-.galleryImg > a span, .galleryImg1 > a span {background-color: #ffc107;}
+.galleryImg > a span, .galleryImg1 > a span {background-color: #f41700;}
 .galleryImg a span i, .galleryImg1 a span i {
 	display: table-cell;
 	font-size: 1.35em;
